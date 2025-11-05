@@ -91,22 +91,6 @@
 * **[Log Ring](https://github.com/neeleshroy2023/log-ring):** A simple, in-memory circular buffer for capturing logs.
 * **[Invoicing](https://github.com/neeleshroy2023/automated-invoicing):** An online invoice generator tool designed for freelancers and small businesses.
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/neeleshroy2023">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=neeleshroy2023&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Neelesh's GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/neeleshroy2023">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeleshroy2023&layout=compact&theme=radical" alt="Neelesh's Top Languages" />
-  </a>
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 <p align="center">
