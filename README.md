@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Neelesh 👋</h1>
 <h3 align="center">Software Engineer | AI enthusiast | Full Stack </h3>
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQF9PXacZ3L0YA/profile-displaybackgroundimage-shrink_350_1400/B4DZkyFaFoH4AY-/0/1757481906249?e=1764201600&v=beta&t=FMT0cHfyP0f2Pib8q5hTkWnfziXnpbecY-lm7eS7UNk" width="100%" alt="Header Banner">
-</p>
-
 ---
 
 ### 👨‍💻 About Me
