@@ -9,10 +9,10 @@
   I'm a Senior Software Engineer based in India. I'm passionate about building scalable applications, resilient systems and adaptive user interfaces.
 </p>
 
-* 🚀 I’m currently working on Stream Relay, a performance monitoring application.
-* 🧠 I’m currently learning Rust.
+* 🚀 I work in an Insurance Technology company
+* 🧠 I’m currently learning Advanced System Design.
 * 🤝 I’m looking to collaborate on Application Monitoring, SaaS products and Databases.
-* 💬 Ask me about React, Typescript, Python, PostgreSQL and AWS.
+* 💬 Ask me about System Design.
 * 📫 How to reach me: neeleshroy.2020@gmail.com
 * ⚡ Fun fact: **I post viral comments in Instagram Reels**.
 
