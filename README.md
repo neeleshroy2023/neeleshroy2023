@@ -1,24 +1,51 @@
 <h1 align="center">Hi there, I'm Neelesh 👋</h1>
-<h3 align="center">Software Engineer | AI enthusiast | Full Stack </h3>
+<h3 align="center">Production Agentic Systems Engineer · LangGraph · MCP · AWS · Insurtech AI · LLM Evals</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 <p>
-  I'm a Senior Software Engineer based in India. I'm passionate about building scalable applications, resilient systems and adaptive user interfaces.
+  I build production-grade agentic AI systems — multi-agent architectures that actually hold up outside the demo environment.
 </p>
 
-* 🚀 I work in an Insurance Technology company
-* 🧠 I’m currently learning Advanced System Design.
-* 🤝 I’m looking to collaborate on Application Monitoring, SaaS products and Databases.
-* 💬 Ask me about System Design.
-* 📫 How to reach me: neeleshroy.2020@gmail.com
-* ⚡ Fun fact: **I post viral comments in Instagram Reels**.
+- 🚀 I've shipped LLM-integrated features using Claude, OpenAI, and AWS serverless infrastructure. My work sits at the intersection of agent systems engineering, AWS serverless architecture, and regulated-domain AI — a combination that's genuinely rare.
+- 🧠 Technical focus areas:
+  - LangGraph-based multi-agent orchestration with proper state management and failure recovery
+  - MCP (Model Context Protocol) server authoring for domain-specific tool exposure
+  - Production reliability patterns: Saga/compensating actions, SQS-decoupled agents, Pydantic guardrails
+  - LLM evaluation: trajectory evals, LLM-as-Judge, automated regression in CI (LangFuse + DeepEval)
+  - AWS-native deployment: Lambda + DynamoDB + SQS + CloudWatch for agent infrastructure
+- 🤝 10+ years full stack (JS/TS, Python, React, Node) with deep AWS experience.
+- 💬 Available for senior agentic AI roles, especially in insurtech, fintech, or healthtech where domain depth amplifies engineering value.
+- 📫 How to reach me: neeleshroy.2020@gmail.com
+- ⚡ Fun fact: **I post viral comments in Instagram Reels**.
 
 ---
 
 ### 🛠️ My Tech Stack
+
+**Agentic AI & LLMs:**
+
+<p align="left">
+  <a href="https://python.langchain.com/docs/langgraph" target="_blank">
+    <img src="https://img.shields.io/badge/LangGraph-222222?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph">
+  </a>
+  <a href="https://modelcontextprotocol.io/" target="_blank">
+    <img src="https://img.shields.io/badge/MCP-Protocol-FF6B6B?style=for-the-badge&logoColor=white" alt="Model Context Protocol">
+  </a>
+  <a href="https://www.anthropic.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Claude-API-8B5CF6?style=for-the-badge&logoColor=white" alt="Claude API">
+  </a>
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenAI-API-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  </a>
+  <a href="https://pydantic-ai.jina.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Pydantic-Guardrails-E92063?style=for-the-badge&logoColor=white" alt="Pydantic">
+  </a>
+</p>
+
+**Languages & Frameworks:**
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
@@ -36,56 +63,52 @@
   <a href="https://nodejs.org" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+</p>
+
+**AWS Serverless Infrastructure:**
+
+<p align="left">
+  <a href="https://aws.amazon.com/lambda/" target="_blank">
+    <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda">
   </a>
-  
-  <br>
-  <br>
-  
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
+    <img src="https://img.shields.io/badge/DynamoDB-527FFF?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB">
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <a href="https://aws.amazon.com/sqs/" target="_blank">
+    <img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logoColor=white" alt="SQS">
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <a href="https://aws.amazon.com/cloudwatch/" target="_blank">
+    <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logoColor=white" alt="CloudWatch">
   </a>
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+</p>
+
+**LLM Evaluation & Observability:**
+
+<p align="left">
+  <a href="https://langfuse.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LangFuse-000000?style=for-the-badge&logoColor=white" alt="LangFuse">
+  </a>
+  <a href="https://www.deepeval.com/" target="_blank">
+    <img src="https://img.shields.io/badge/DeepEval-4F46E5?style=for-the-badge&logoColor=white" alt="DeepEval">
+  </a>
+</p>
+
+**Tools & Platforms:**
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  </a>
-  
-  <br>
-  <br>
-  
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  </a>
 </p>
-
----
-
-### 🏆 My Projects
-
-* **[Stream Relay](https://github.com/neeleshroy2023/streamrelay):** a lightweight, open source frontend web monitoring and error-tracking solution.
-* **[Log Ring](https://github.com/neeleshroy2023/log-ring):** A simple, in-memory circular buffer for capturing logs.
-* **[Invoicing](https://github.com/neeleshroy2023/automated-invoicing):** An online invoice generator tool designed for freelancers and small businesses.
 
 ### 📫 Let's Connect!
 
