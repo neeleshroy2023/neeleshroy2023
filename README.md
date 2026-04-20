@@ -28,24 +28,12 @@
 ### 🛠️ My Tech Stack
 
 **Agentic AI & LLMs:**
-
-<p align="left">
-  <a href="https://python.langchain.com/docs/langgraph" target="_blank">
-    <img src="https://img.shields.io/badge/LangGraph-222222?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph">
-  </a>
-  <a href="https://modelcontextprotocol.io/" target="_blank">
-    <img src="https://img.shields.io/badge/MCP-Protocol-FF6B6B?style=for-the-badge&logoColor=white" alt="Model Context Protocol">
-  </a>
-  <a href="https://www.anthropic.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Claude-API-8B5CF6?style=for-the-badge&logoColor=white" alt="Claude API">
-  </a>
-  <a href="https://openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI-API-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  </a>
-  <a href="https://pydantic-ai.jina.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/Pydantic-Guardrails-E92063?style=for-the-badge&logoColor=white" alt="Pydantic">
-  </a>
-</p>
+<br><br>
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
 **Languages & Frameworks:**
 
