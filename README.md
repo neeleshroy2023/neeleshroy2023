@@ -1,20 +1,19 @@
 ![Neelesh Roy](1757481906249.jpeg)
 <h1 align="center">Hi there, I'm Neelesh 👋</h1>
-<h3 align="center">Production Agentic Systems Engineer · LangGraph · MCP · AWS · Insurtech AI · LLM Evals</h3>
+<h3 align="center">Senior AI Engineer - Generative AI / Agentic AI</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 <p>
-  I build production-grade agentic AI systems — multi-agent architectures that actually hold up outside the demo environment.
+  I build production-grade generative and agentic AI systems — multi-agent architectures that actually hold up outside the demo environment.
 </p>
 
 - 🚀 I've shipped LLM-integrated features using Claude, OpenAI, and AWS serverless infrastructure.
 - 💼 My work sits at the intersection of agent systems engineering, AWS serverless architecture, and regulated-domain AI
 - 🧠 Technical focus areas:
   - 📊 LangGraph-based multi-agent orchestration with proper state management and failure recovery
-  - 🖥️ MCP (Model Context Protocol) server authoring for domain-specific tool exposure
   - ☢️ Production reliability patterns: Saga/compensating actions, SQS-decoupled agents, Pydantic guardrails
   - ⛑️ LLM evaluation: trajectory evals, LLM-as-Judge, automated regression in CI (LangFuse + DeepEval)
   - 🏢 AWS-native deployment: Lambda + DynamoDB + SQS + CloudWatch for agent infrastructure
