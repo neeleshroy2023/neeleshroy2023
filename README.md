@@ -1,4 +1,3 @@
-![Neelesh Roy](1757481906249.jpeg)
 <h1 align="center">Hi there, I'm Neelesh 👋</h1>
 <h3 align="center">Senior AI Engineer - Generative AI / Agentic AI</h3>
 
@@ -25,6 +24,7 @@
 ---
 
 ### 📫 Let's Connect!
+![Neelesh Roy](1757481906249.jpeg)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/neeleshroy" target="_blank">
