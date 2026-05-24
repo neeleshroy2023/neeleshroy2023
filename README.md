@@ -1,10 +1,7 @@
 <h1 align="center">Hi there, I'm Neelesh 👋</h1>
 <h3 align="center">Senior AI Engineer - Generative AI / Agentic AI</h3>
 
----
-
 ### 👨‍💻 About Me
-
 <p>
   I build production-grade generative and agentic AI systems — multi-agent architectures that actually hold up outside the demo environment.
 </p>
