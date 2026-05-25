@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About Me
 <p>
-  I build production-grade generative and agentic AI systems — multi-agent architectures that actually hold up outside the demo environment.
+  I build generative and agentic AI systems, focused on multi-agent architectures that actually hold up outside the demo environment.
 </p>
 
 - 🚀 I've shipped LLM-integrated features using Claude, OpenAI, and AWS serverless infrastructure.
