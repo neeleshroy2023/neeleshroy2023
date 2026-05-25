@@ -8,11 +8,7 @@
 
 - 🚀 I've shipped LLM-integrated features using Claude, OpenAI, and AWS serverless infrastructure.
 - 💼 My work sits at the intersection of agent systems engineering, AWS serverless architecture, and regulated-domain AI
-- 🧠 Technical focus areas:
-  - 📊 LangGraph-based multi-agent orchestration with proper state management and failure recovery
-  - ☢️ Production reliability patterns: Saga/compensating actions, SQS-decoupled agents, Pydantic guardrails
-  - ⛑️ LLM evaluation: trajectory evals, LLM-as-Judge, automated regression in CI (LangFuse + DeepEval)
-  - 🏢 AWS-native deployment: Lambda + DynamoDB + SQS + CloudWatch for agent infrastructure
+- 🏢 AWS-native: Lambda + DynamoDB + SQS + CloudWatch for agent infrastructure
 - 🤝 10+ years full stack (JS/TS, Python, React, Node) with deep AWS experience.
 - 💬 Available for senior agentic AI roles, especially in insurtech, fintech, or healthtech where domain depth amplifies engineering value.
 - 📫 How to reach me: neeleshroy.2020@gmail.com
