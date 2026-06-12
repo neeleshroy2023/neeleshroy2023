@@ -1,16 +1,16 @@
 <h1 align="center">Hi there, I'm Neelesh 👋</h1>
-<h3 align="center">Senior AI Engineer - Generative AI / Agentic AI</h3>
+<h3 align="center">Senior Full Stack Engineer - Generative AI / Agentic AI</h3>
 
 ### 👨‍💻 About Me
 <p>
   I build generative and agentic AI systems, focused on multi-agent architectures that actually hold up outside the demo environment.
 </p>
 
-- 🚀 I've shipped LLM-integrated features using Claude, OpenAI, and AWS serverless infrastructure.
-- 💼 My work sits at the intersection of agent systems engineering, AWS serverless architecture, and regulated-domain AI
-- 🏢 AWS-native: Lambda + DynamoDB + SQS + CloudWatch for agent infrastructure
+- 🚀 LLM powered solutions for business
+- 💼 Agent systems engineering, AWS serverless architecture, and regulated-domain AI
+- 🏢 AWS-native: Bedrock, Guardrails and Serverless
 - 🤝 10+ years full stack (JS/TS, Python, React, Node) with deep AWS experience.
-- 💬 Available for senior agentic AI roles, especially in insurtech, fintech, or healthtech where domain depth amplifies engineering value.
+- 💬 Available for Senior Software / agentic AI roles, especially in insurtech, fintech, or healthtech where domain depth amplifies engineering value.
 - 📫 How to reach me: neeleshroy.2020@gmail.com
 - ⚡ Fun fact: **I post viral comments in Instagram Reels**.
 
